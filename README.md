@@ -1,9 +1,9 @@
 # 🖥️알고리즘 스터디
 - 기간 : 2023.07.01 ~ ing
 - 플랫폼
-    - 프로그래머스 :https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&levels=0
-    - 백준 : https://www.acmicpc.net/
-    - SWEA : https://swexpertacademy.com/main/main.do
+    - [프로그래머스]([https://github.com/TheCopiens/algorithm-study](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&levels=0))  
+    - [백준]([https://www.acmicpc.net/)
+    - [SWEA](https://swexpertacademy.com/main/main.do)  
 - 언어 : JAVA, PYTHON
 - 장소 : 대면 / 비대면(디스코드, 노션)
 - 시간 : 20:00 ~ 22:00
@@ -43,9 +43,9 @@
 
 # ⚙️ commit 컨벤션
 ``` 
-{태그}: {플랫폼}_{문제번호} {commit 메시지}
+[{태그}] {플랫폼}_{문제번호} {commit 메시지}
 ```
-✔️ 예시 : feat: BOJ_10773 알고리즘 구현
+✔️ 예시 : [feat] BOJ_10773 알고리즘 구현
 
 #### 🚨 태그
 - feat : 새로운 기능 추가
