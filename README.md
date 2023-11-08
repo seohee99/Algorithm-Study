@@ -1,8 +1,8 @@
 # 🖥️알고리즘 스터디
 - 기간 : 2023.07.01 ~ ing
 - 플랫폼
-    - [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&levels=0))  
-    - [백준]([https://www.acmicpc.net/)
+    - [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&levels=0)
+    - [백준](https://www.acmicpc.net/)
     - [SWEA](https://swexpertacademy.com/main/main.do)  
 - 언어 : JAVA, PYTHON
 - 장소 : 대면 / 비대면(디스코드, 노션)
