@@ -26,9 +26,9 @@ class Solution
                     if(temp[j].equals("O")){
                         count ++;
                         
-                        // 이미 방문한 행이라면(평행한 열 발생) 
+                        // 이미 방문한 행이라면(평행한 행 발생) 
                         if (visited_i[i]) flag = false;
-                        // 이미 방문한 열이라면(평행한 행 발생)
+                        // 이미 방문한 열이라면(평행한 열 발생)
                         if (visited_j[j]) flag = false;
                         // 행, 열 아무것도 방문 안했다면
                         visited_i[i] = true;
